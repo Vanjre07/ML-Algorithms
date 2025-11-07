@@ -1,8 +1,3 @@
-Here’s an **improved and professional version** of your README.md with better formatting, consistency, and readability — perfect for GitHub presentation 👇
-
----
-
-````markdown
 <div align="center">
   <h1>🧠 ML Algorithm Visualizer</h1>
 
@@ -69,31 +64,23 @@ conda activate ENV_NAME
 
 #### 🧰 Using venv
 
-```bash
 python3 -m venv ENV_NAME
 source ENV_NAME/bin/activate  # For Linux/Mac
 ENV_NAME\Scripts\activate     # For Windows
-```
+
 
 ---
 
 ### 2️⃣ Install Dependencies
-
 Install all required packages listed in `requirements.txt`:
-
-```bash
 pip install -r requirements.txt
-```
 
 ---
 
 ### 3️⃣ Run the Visualizer
-
 Open the Jupyter Notebook and execute all cells:
-
-```bash
 jupyter notebook Visualizer.ipynb
-```
+
 
 > ⚡ The visualizer will render dynamic, step-by-step visual demonstrations of machine learning algorithms.
 
@@ -101,7 +88,6 @@ jupyter notebook Visualizer.ipynb
 
 ## 📂 Project Structure
 
-```
 ML-Algorithm-Visualizer/
 │
 ├── documentation/
@@ -110,7 +96,6 @@ ML-Algorithm-Visualizer/
 ├── requirements.txt
 ├── LICENSE
 └── README.md
-```
 
 ---
 
@@ -125,11 +110,6 @@ ML-Algorithm-Visualizer/
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🤝 Contributors
 
@@ -142,7 +122,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
   <b>⭐ If you found this project helpful, consider giving it a star!</b><br><br>
   <em>“Learning through visualization makes complex concepts simple.”</em>
 </div>
-```
 
 ---
 
